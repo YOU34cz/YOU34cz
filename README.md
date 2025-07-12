@@ -1,5 +1,5 @@
 <h1 align="center">wassup jsem YOU34</h1>
-<h3 align="center">mám rád programování</h3>
+<h3 align="center">rad si hraju s klavesnici</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=you34cz&label=Profile%20views&color=0e75b6&style=flat" alt="you34cz" /> </p>
 
